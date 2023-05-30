@@ -10,6 +10,7 @@ from sklearn.preprocessing import StandardScaler, minmax_scale
 import pandas as pd
 import time
 
+
 # determinação das faixas de frequências para cada rítmo
 delta = (0, 4)
 theta = (4, 8)   # meditação, imaginação e criatividade
